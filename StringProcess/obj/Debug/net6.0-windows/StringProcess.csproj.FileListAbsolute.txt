@@ -1,0 +1,17 @@
+D:\C#\StringProcess\StringProcess\bin\Debug\net6.0-windows\StringProcess.exe
+D:\C#\StringProcess\StringProcess\bin\Debug\net6.0-windows\StringProcess.deps.json
+D:\C#\StringProcess\StringProcess\bin\Debug\net6.0-windows\StringProcess.runtimeconfig.json
+D:\C#\StringProcess\StringProcess\bin\Debug\net6.0-windows\StringProcess.dll
+D:\C#\StringProcess\StringProcess\bin\Debug\net6.0-windows\StringProcess.pdb
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.csproj.AssemblyReference.cache
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.Form1.resources
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.csproj.GenerateResource.cache
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.AssemblyInfoInputs.cache
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.AssemblyInfo.cs
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.csproj.CoreCompileInputs.cache
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.dll
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\refint\StringProcess.dll
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.pdb
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\StringProcess.genruntimeconfig.cache
+D:\C#\StringProcess\StringProcess\obj\Debug\net6.0-windows\ref\StringProcess.dll

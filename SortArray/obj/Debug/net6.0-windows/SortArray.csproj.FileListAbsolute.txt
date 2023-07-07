@@ -1,0 +1,17 @@
+D:\C#\StringProcess\SortArray\bin\Debug\net6.0-windows\SortArray.exe
+D:\C#\StringProcess\SortArray\bin\Debug\net6.0-windows\SortArray.deps.json
+D:\C#\StringProcess\SortArray\bin\Debug\net6.0-windows\SortArray.runtimeconfig.json
+D:\C#\StringProcess\SortArray\bin\Debug\net6.0-windows\SortArray.dll
+D:\C#\StringProcess\SortArray\bin\Debug\net6.0-windows\SortArray.pdb
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.csproj.AssemblyReference.cache
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.Form1.resources
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.csproj.GenerateResource.cache
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.AssemblyInfoInputs.cache
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.AssemblyInfo.cs
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.csproj.CoreCompileInputs.cache
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.dll
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\refint\SortArray.dll
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.pdb
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\SortArray.genruntimeconfig.cache
+D:\C#\StringProcess\SortArray\obj\Debug\net6.0-windows\ref\SortArray.dll
